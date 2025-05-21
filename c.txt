@@ -1,7 +1,6 @@
 Noi dung C
-<<<<<<< HEAD
 
 Cap nhap boi Mac
-=======
 Cap nhap boi Window
->>>>>>> origin/master
+
+2020
